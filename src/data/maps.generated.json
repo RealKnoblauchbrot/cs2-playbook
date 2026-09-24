@@ -1,0 +1,2161 @@
+[
+ {
+  "id": "de_dust2",
+  "name": "Dust II",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Main"
+   }
+  ],
+  "posX": -2476.0,
+  "posY": 3239.0,
+  "scale": 4.4,
+  "lowerAltitudeMax": null,
+  "tSpawn": [
+   0.39,
+   0.91
+  ],
+  "ctSpawn": [
+   0.62,
+   0.21
+  ],
+  "bombA": [
+   0.8,
+   0.16
+  ],
+  "bombB": [
+   0.21,
+   0.12
+  ],
+  "callouts": [
+   {
+    "key": "ARamp",
+    "name": "A Ramp",
+    "x": 0.8736,
+    "y": 0.1205,
+    "level": "default"
+   },
+   {
+    "key": "BDoors",
+    "name": "B Doors",
+    "x": 0.3164,
+    "y": 0.1998,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.7823,
+    "y": 0.1156,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.159,
+    "y": 0.1745,
+    "level": "default"
+   },
+   {
+    "key": "CTSpawn",
+    "name": "CT Start",
+    "x": 0.5806,
+    "y": 0.2137,
+    "level": "default"
+   },
+   {
+    "key": "Catwalk",
+    "name": "Catwalk",
+    "x": 0.5495,
+    "y": 0.3948,
+    "level": "default"
+   },
+   {
+    "key": "ExtendedA",
+    "name": "Extended A",
+    "x": 0.6559,
+    "y": 0.1775,
+    "level": "default"
+   },
+   {
+    "key": "Hole",
+    "name": "Hole",
+    "x": 0.2575,
+    "y": 0.1285,
+    "level": "default"
+   },
+   {
+    "key": "LongA",
+    "name": "Long A",
+    "x": 0.8804,
+    "y": 0.3609,
+    "level": "default"
+   },
+   {
+    "key": "LongDoors",
+    "name": "Long Doors",
+    "x": 0.7477,
+    "y": 0.559,
+    "level": "default"
+   },
+   {
+    "key": "LowerTunnel",
+    "name": "Lower Tunnel",
+    "x": 0.356,
+    "y": 0.4064,
+    "level": "default"
+   },
+   {
+    "key": "MidDoors",
+    "name": "Mid Doors",
+    "x": 0.4399,
+    "y": 0.2578,
+    "level": "default"
+   },
+   {
+    "key": "Middle",
+    "name": "Middle",
+    "x": 0.4643,
+    "y": 0.4668,
+    "level": "default"
+   },
+   {
+    "key": "OutsideLong",
+    "name": "Outside Long",
+    "x": 0.6375,
+    "y": 0.744,
+    "level": "default"
+   },
+   {
+    "key": "OutsideTunnel",
+    "name": "Outside Tunnel",
+    "x": 0.1873,
+    "y": 0.655,
+    "level": "default"
+   },
+   {
+    "key": "Pit",
+    "name": "Pit",
+    "x": 0.8683,
+    "y": 0.6177,
+    "level": "default"
+   },
+   {
+    "key": "ShortStairs",
+    "name": "Short Stairs",
+    "x": 0.6348,
+    "y": 0.354,
+    "level": "default"
+   },
+   {
+    "key": "Side",
+    "name": "Side",
+    "x": 0.9286,
+    "y": 0.5688,
+    "level": "default"
+   },
+   {
+    "key": "TRamp",
+    "name": "T Ramp",
+    "x": 0.1012,
+    "y": 0.8485,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.3738,
+    "y": 0.8972,
+    "level": "default"
+   },
+   {
+    "key": "TopofMid",
+    "name": "Top of Mid",
+    "x": 0.4723,
+    "y": 0.702,
+    "level": "default"
+   },
+   {
+    "key": "TunnelStairs",
+    "name": "Tunnel Stairs",
+    "x": 0.2986,
+    "y": 0.4681,
+    "level": "default"
+   },
+   {
+    "key": "UnderA",
+    "name": "Under A",
+    "x": 0.743,
+    "y": 0.2325,
+    "level": "default"
+   },
+   {
+    "key": "UpperTunnel",
+    "name": "Upper Tunnel",
+    "x": 0.1628,
+    "y": 0.4437,
+    "level": "default"
+   }
+  ]
+ },
+ {
+  "id": "de_mirage",
+  "name": "Mirage",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Main"
+   }
+  ],
+  "posX": -3230.0,
+  "posY": 1713.0,
+  "scale": 5.0,
+  "lowerAltitudeMax": null,
+  "tSpawn": [
+   0.87,
+   0.36
+  ],
+  "ctSpawn": [
+   0.28,
+   0.7
+  ],
+  "bombA": [
+   0.54,
+   0.76
+  ],
+  "bombB": [
+   0.23,
+   0.28
+  ],
+  "callouts": [
+   {
+    "key": "Apartments",
+    "name": "Apartments",
+    "x": 0.3282,
+    "y": 0.2117,
+    "level": "default"
+   },
+   {
+    "key": "BackAlley",
+    "name": "Back Alley",
+    "x": 0.5262,
+    "y": 0.2129,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.5724,
+    "y": 0.7104,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.2471,
+    "y": 0.2986,
+    "level": "default"
+   },
+   {
+    "key": "CTSpawn",
+    "name": "CT Start",
+    "x": 0.3293,
+    "y": 0.6484,
+    "level": "default"
+   },
+   {
+    "key": "Catwalk",
+    "name": "Catwalk",
+    "x": 0.5216,
+    "y": 0.3553,
+    "level": "default"
+   },
+   {
+    "key": "Connector",
+    "name": "Connector",
+    "x": 0.4996,
+    "y": 0.54,
+    "level": "default"
+   },
+   {
+    "key": "House",
+    "name": "House",
+    "x": 0.6914,
+    "y": 0.19,
+    "level": "default"
+   },
+   {
+    "key": "Jungle",
+    "name": "Jungle",
+    "x": 0.4277,
+    "y": 0.607,
+    "level": "default"
+   },
+   {
+    "key": "Ladder",
+    "name": "Ladder",
+    "x": 0.4177,
+    "y": 0.3785,
+    "level": "default"
+   },
+   {
+    "key": "Middle",
+    "name": "Middle",
+    "x": 0.5326,
+    "y": 0.4781,
+    "level": "default"
+   },
+   {
+    "key": "PalaceAlley",
+    "name": "Palace Alley",
+    "x": 0.8084,
+    "y": 0.5709,
+    "level": "default"
+   },
+   {
+    "key": "PalaceInterior",
+    "name": "Palace Interior",
+    "x": 0.7675,
+    "y": 0.6924,
+    "level": "default"
+   },
+   {
+    "key": "Scaffolding",
+    "name": "Scaffolding",
+    "x": 0.641,
+    "y": 0.7307,
+    "level": "default"
+   },
+   {
+    "key": "Shop",
+    "name": "Shop",
+    "x": 0.2474,
+    "y": 0.4326,
+    "level": "default"
+   },
+   {
+    "key": "SideAlley",
+    "name": "Side Alley",
+    "x": 0.7512,
+    "y": 0.2697,
+    "level": "default"
+   },
+   {
+    "key": "SnipersNest",
+    "name": "Sniper's Nest",
+    "x": 0.3913,
+    "y": 0.4938,
+    "level": "default"
+   },
+   {
+    "key": "Stairs",
+    "name": "Stairs",
+    "x": 0.5405,
+    "y": 0.6206,
+    "level": "default"
+   },
+   {
+    "key": "TRamp",
+    "name": "T Ramp",
+    "x": 0.7035,
+    "y": 0.6424,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.8754,
+    "y": 0.4052,
+    "level": "default"
+   },
+   {
+    "key": "TopofMid",
+    "name": "Top of Mid",
+    "x": 0.682,
+    "y": 0.4258,
+    "level": "default"
+   },
+   {
+    "key": "Truck",
+    "name": "Truck",
+    "x": 0.1902,
+    "y": 0.1924,
+    "level": "default"
+   },
+   {
+    "key": "Underpass",
+    "name": "Underpass",
+    "x": 0.4911,
+    "y": 0.3358,
+    "level": "default"
+   }
+  ]
+ },
+ {
+  "id": "de_inferno",
+  "name": "Inferno",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Main"
+   }
+  ],
+  "posX": -2087.0,
+  "posY": 3870.0,
+  "scale": 4.9,
+  "lowerAltitudeMax": null,
+  "tSpawn": [
+   0.1,
+   0.67
+  ],
+  "ctSpawn": [
+   0.9,
+   0.35
+  ],
+  "bombA": [
+   0.81,
+   0.69
+  ],
+  "bombB": [
+   0.49,
+   0.22
+  ],
+  "callouts": [
+   {
+    "key": "Apartments",
+    "name": "Apartments",
+    "x": 0.6423,
+    "y": 0.8056,
+    "level": "default"
+   },
+   {
+    "key": "Arch",
+    "name": "Arch",
+    "x": 0.7816,
+    "y": 0.536,
+    "level": "default"
+   },
+   {
+    "key": "BackAlley",
+    "name": "Back Alley",
+    "x": 0.5562,
+    "y": 0.8805,
+    "level": "default"
+   },
+   {
+    "key": "Balcony",
+    "name": "Balcony",
+    "x": 0.8209,
+    "y": 0.8103,
+    "level": "default"
+   },
+   {
+    "key": "Banana",
+    "name": "Banana",
+    "x": 0.491,
+    "y": 0.4414,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.8248,
+    "y": 0.6932,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.5064,
+    "y": 0.1893,
+    "level": "default"
+   },
+   {
+    "key": "Bridge",
+    "name": "Bridge",
+    "x": 0.3419,
+    "y": 0.7971,
+    "level": "default"
+   },
+   {
+    "key": "CTSpawn",
+    "name": "CT Start",
+    "x": 0.8378,
+    "y": 0.3201,
+    "level": "default"
+   },
+   {
+    "key": "Deck",
+    "name": "Deck",
+    "x": 0.4295,
+    "y": 0.7589,
+    "level": "default"
+   },
+   {
+    "key": "Kitchen",
+    "name": "Kitchen",
+    "x": 0.3745,
+    "y": 0.7306,
+    "level": "default"
+   },
+   {
+    "key": "Library",
+    "name": "Library",
+    "x": 0.9209,
+    "y": 0.4975,
+    "level": "default"
+   },
+   {
+    "key": "LowerMid",
+    "name": "Lower Mid",
+    "x": 0.2635,
+    "y": 0.7441,
+    "level": "default"
+   },
+   {
+    "key": "Middle",
+    "name": "Middle",
+    "x": 0.5302,
+    "y": 0.6522,
+    "level": "default"
+   },
+   {
+    "key": "Pit",
+    "name": "Pit",
+    "x": 0.8905,
+    "y": 0.8331,
+    "level": "default"
+   },
+   {
+    "key": "Quad",
+    "name": "Quad",
+    "x": 0.701,
+    "y": 0.7829,
+    "level": "default"
+   },
+   {
+    "key": "Ruins",
+    "name": "Ruins",
+    "x": 0.6443,
+    "y": 0.1638,
+    "level": "default"
+   },
+   {
+    "key": "SecondMid",
+    "name": "Second Mid",
+    "x": 0.4727,
+    "y": 0.7832,
+    "level": "default"
+   },
+   {
+    "key": "TRamp",
+    "name": "T Ramp",
+    "x": 0.3666,
+    "y": 0.6008,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.1283,
+    "y": 0.7139,
+    "level": "default"
+   },
+   {
+    "key": "TopofMid",
+    "name": "Top of Mid",
+    "x": 0.6997,
+    "y": 0.6461,
+    "level": "default"
+   },
+   {
+    "key": "Underpass",
+    "name": "Underpass",
+    "x": 0.4686,
+    "y": 0.694,
+    "level": "default"
+   },
+   {
+    "key": "Upstairs",
+    "name": "Upstairs",
+    "x": 0.3267,
+    "y": 0.7267,
+    "level": "default"
+   }
+  ]
+ },
+ {
+  "id": "de_nuke",
+  "name": "Nuke",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Upper"
+   },
+   {
+    "id": "lower",
+    "name": "Lower"
+   }
+  ],
+  "posX": -3453.0,
+  "posY": 2887.0,
+  "scale": 7.0,
+  "lowerAltitudeMax": -495.0,
+  "tSpawn": [
+   0.19,
+   0.54
+  ],
+  "ctSpawn": [
+   0.82,
+   0.45
+  ],
+  "bombA": [
+   0.58,
+   0.48
+  ],
+  "bombB": [
+   0.58,
+   0.58
+  ],
+  "callouts": [
+   {
+    "key": "Admin",
+    "name": "Admin",
+    "x": 0.6386,
+    "y": 0.4106,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.5767,
+    "y": 0.5238,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.5702,
+    "y": 0.5019,
+    "level": "lower"
+   },
+   {
+    "key": "CTSpawn",
+    "name": "CT Start",
+    "x": 0.8686,
+    "y": 0.4971,
+    "level": "default"
+   },
+   {
+    "key": "Catwalk",
+    "name": "Catwalk",
+    "x": 0.6666,
+    "y": 0.463,
+    "level": "default"
+   },
+   {
+    "key": "Control",
+    "name": "Control Room",
+    "x": 0.5046,
+    "y": 0.41,
+    "level": "default"
+   },
+   {
+    "key": "Crane",
+    "name": "Crane",
+    "x": 0.5253,
+    "y": 0.5214,
+    "level": "default"
+   },
+   {
+    "key": "Decon",
+    "name": "Decon",
+    "x": 0.5105,
+    "y": 0.5983,
+    "level": "lower"
+   },
+   {
+    "key": "Garage",
+    "name": "Garage",
+    "x": 0.7246,
+    "y": 0.676,
+    "level": "default"
+   },
+   {
+    "key": "Heaven",
+    "name": "Heaven",
+    "x": 0.6404,
+    "y": 0.4586,
+    "level": "default"
+   },
+   {
+    "key": "Hell",
+    "name": "Hell",
+    "x": 0.6496,
+    "y": 0.4621,
+    "level": "default"
+   },
+   {
+    "key": "Hut",
+    "name": "Hut",
+    "x": 0.5325,
+    "y": 0.5383,
+    "level": "default"
+   },
+   {
+    "key": "HutRoof",
+    "name": "Hut Roof",
+    "x": 0.5394,
+    "y": 0.5495,
+    "level": "default"
+   },
+   {
+    "key": "Lobby",
+    "name": "Lobby",
+    "x": 0.4761,
+    "y": 0.5316,
+    "level": "default"
+   },
+   {
+    "key": "LockerRoom",
+    "name": "Locker Room",
+    "x": 0.6491,
+    "y": 0.4987,
+    "level": "default"
+   },
+   {
+    "key": "Mini",
+    "name": "Mini",
+    "x": 0.575,
+    "y": 0.6348,
+    "level": "default"
+   },
+   {
+    "key": "Observation",
+    "name": "Observation",
+    "x": 0.6542,
+    "y": 0.4741,
+    "level": "lower"
+   },
+   {
+    "key": "Outside",
+    "name": "Outside",
+    "x": 0.566,
+    "y": 0.7016,
+    "level": "default"
+   },
+   {
+    "key": "Rafters",
+    "name": "Rafters",
+    "x": 0.5716,
+    "y": 0.4723,
+    "level": "default"
+   },
+   {
+    "key": "Ramp",
+    "name": "Ramp",
+    "x": 0.5705,
+    "y": 0.3555,
+    "level": "default"
+   },
+   {
+    "key": "Roof",
+    "name": "Roof",
+    "x": 0.4784,
+    "y": 0.4727,
+    "level": "default"
+   },
+   {
+    "key": "Secret",
+    "name": "Secret",
+    "x": 0.6731,
+    "y": 0.7259,
+    "level": "default"
+   },
+   {
+    "key": "Secret",
+    "name": "Secret",
+    "x": 0.6945,
+    "y": 0.7009,
+    "level": "lower"
+   },
+   {
+    "key": "Silo",
+    "name": "Silo",
+    "x": 0.4923,
+    "y": 0.6327,
+    "level": "default"
+   },
+   {
+    "key": "Squeaky",
+    "name": "Squeaky",
+    "x": 0.4807,
+    "y": 0.5819,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.2077,
+    "y": 0.5389,
+    "level": "default"
+   },
+   {
+    "key": "Trophy",
+    "name": "Trophy",
+    "x": 0.499,
+    "y": 0.4683,
+    "level": "default"
+   },
+   {
+    "key": "Tunnels",
+    "name": "Tunnels",
+    "x": 0.6408,
+    "y": 0.6165,
+    "level": "lower"
+   },
+   {
+    "key": "Vending",
+    "name": "Vending",
+    "x": 0.4644,
+    "y": 0.4727,
+    "level": "default"
+   },
+   {
+    "key": "Vents",
+    "name": "Vents",
+    "x": 0.5817,
+    "y": 0.602,
+    "level": "lower"
+   }
+  ]
+ },
+ {
+  "id": "de_ancient",
+  "name": "Ancient",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Main"
+   }
+  ],
+  "posX": -2953.0,
+  "posY": 2164.0,
+  "scale": 5.0,
+  "lowerAltitudeMax": null,
+  "tSpawn": [
+   0.485,
+   0.87
+  ],
+  "ctSpawn": [
+   0.51,
+   0.17
+  ],
+  "bombA": [
+   0.31,
+   0.25
+  ],
+  "bombB": [
+   0.8,
+   0.4
+  ],
+  "callouts": [
+   {
+    "key": "Alley",
+    "name": "Alley",
+    "x": 0.7072,
+    "y": 0.2867,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.2819,
+    "y": 0.2703,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.776,
+    "y": 0.3844,
+    "level": "default"
+   },
+   {
+    "key": "CTSpawn",
+    "name": "CT Start",
+    "x": 0.4846,
+    "y": 0.1488,
+    "level": "default"
+   },
+   {
+    "key": "House",
+    "name": "House",
+    "x": 0.5018,
+    "y": 0.3023,
+    "level": "default"
+   },
+   {
+    "key": "MainHall",
+    "name": "Main Hall",
+    "x": 0.1916,
+    "y": 0.4594,
+    "level": "default"
+   },
+   {
+    "key": "Middle",
+    "name": "Middle",
+    "x": 0.4604,
+    "y": 0.5089,
+    "level": "default"
+   },
+   {
+    "key": "Outside",
+    "name": "Outside",
+    "x": 0.2863,
+    "y": 0.6703,
+    "level": "default"
+   },
+   {
+    "key": "Ramp",
+    "name": "Ramp",
+    "x": 0.8259,
+    "y": 0.5308,
+    "level": "default"
+   },
+   {
+    "key": "Ruins",
+    "name": "Ruins",
+    "x": 0.7479,
+    "y": 0.6837,
+    "level": "default"
+   },
+   {
+    "key": "SideEntrance",
+    "name": "Side Entrance",
+    "x": 0.6371,
+    "y": 0.4555,
+    "level": "default"
+   },
+   {
+    "key": "SideHall",
+    "name": "Side Hall",
+    "x": 0.3221,
+    "y": 0.4138,
+    "level": "default"
+   },
+   {
+    "key": "TSideLower",
+    "name": "T Side Lower",
+    "x": 0.7502,
+    "y": 0.5555,
+    "level": "default"
+   },
+   {
+    "key": "TSideUpper",
+    "name": "T Side Upper",
+    "x": 0.6111,
+    "y": 0.5769,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.4768,
+    "y": 0.8195,
+    "level": "default"
+   },
+   {
+    "key": "TopofMid",
+    "name": "Top of Mid",
+    "x": 0.4767,
+    "y": 0.3984,
+    "level": "default"
+   },
+   {
+    "key": "Tunnel",
+    "name": "Tunnel",
+    "x": 0.6025,
+    "y": 0.784,
+    "level": "default"
+   },
+   {
+    "key": "Water",
+    "name": "Water",
+    "x": 0.7002,
+    "y": 0.7977,
+    "level": "default"
+   }
+  ]
+ },
+ {
+  "id": "de_anubis",
+  "name": "Anubis",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Main"
+   }
+  ],
+  "posX": -2796.0,
+  "posY": 3328.0,
+  "scale": 5.22,
+  "lowerAltitudeMax": null,
+  "tSpawn": [
+   0.58,
+   0.93
+  ],
+  "ctSpawn": [
+   0.61,
+   0.22
+  ],
+  "bombA": [
+   0.0,
+   0.0
+  ],
+  "bombB": [
+   0.0,
+   0.0
+  ],
+  "callouts": [
+   {
+    "key": "Alley",
+    "name": "Alley",
+    "x": 0.2926,
+    "y": 0.3816,
+    "level": "default"
+   },
+   {
+    "key": "BackofB",
+    "name": "Back of B",
+    "x": 0.3944,
+    "y": 0.4864,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.7636,
+    "y": 0.2748,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.2915,
+    "y": 0.5083,
+    "level": "default"
+   },
+   {
+    "key": "Bricks",
+    "name": "Bricks",
+    "x": 0.348,
+    "y": 0.4161,
+    "level": "default"
+   },
+   {
+    "key": "Bridge",
+    "name": "Bridge",
+    "x": 0.491,
+    "y": 0.6384,
+    "level": "default"
+   },
+   {
+    "key": "CTSideUpper",
+    "name": "CT Side Upper",
+    "x": 0.4312,
+    "y": 0.2284,
+    "level": "default"
+   },
+   {
+    "key": "CTSpawn",
+    "name": "CT Start",
+    "x": 0.4455,
+    "y": 0.1382,
+    "level": "default"
+   },
+   {
+    "key": "Canal",
+    "name": "Canal",
+    "x": 0.6322,
+    "y": 0.5581,
+    "level": "default"
+   },
+   {
+    "key": "Connector",
+    "name": "Connector",
+    "x": 0.3929,
+    "y": 0.5777,
+    "level": "default"
+   },
+   {
+    "key": "Fountain",
+    "name": "Fountain",
+    "x": 0.8419,
+    "y": 0.2679,
+    "level": "default"
+   },
+   {
+    "key": "Heaven",
+    "name": "Heaven",
+    "x": 0.6712,
+    "y": 0.2559,
+    "level": "default"
+   },
+   {
+    "key": "LowerTunnel",
+    "name": "Lower Tunnel",
+    "x": 0.3699,
+    "y": 0.3194,
+    "level": "default"
+   },
+   {
+    "key": "Main",
+    "name": "Main",
+    "x": 0.8382,
+    "y": 0.4159,
+    "level": "default"
+   },
+   {
+    "key": "MidDoors",
+    "name": "Mid Doors",
+    "x": 0.5351,
+    "y": 0.6136,
+    "level": "default"
+   },
+   {
+    "key": "Middle",
+    "name": "Middle",
+    "x": 0.5572,
+    "y": 0.4136,
+    "level": "default"
+   },
+   {
+    "key": "OutsideLong",
+    "name": "Outside Long",
+    "x": 0.2399,
+    "y": 0.6261,
+    "level": "default"
+   },
+   {
+    "key": "PalaceInterior",
+    "name": "Palace Interior",
+    "x": 0.4673,
+    "y": 0.3736,
+    "level": "default"
+   },
+   {
+    "key": "Ruins",
+    "name": "Ruins",
+    "x": 0.3358,
+    "y": 0.7758,
+    "level": "default"
+   },
+   {
+    "key": "SnipersNest",
+    "name": "Sniper's Nest",
+    "x": 0.2969,
+    "y": 0.2693,
+    "level": "default"
+   },
+   {
+    "key": "Street",
+    "name": "Street",
+    "x": 0.6746,
+    "y": 0.7259,
+    "level": "default"
+   },
+   {
+    "key": "TSideUpper",
+    "name": "T Side Upper",
+    "x": 0.7865,
+    "y": 0.5882,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.5171,
+    "y": 0.889,
+    "level": "default"
+   },
+   {
+    "key": "TStairs",
+    "name": "T Stairs",
+    "x": 0.6757,
+    "y": 0.654,
+    "level": "default"
+   },
+   {
+    "key": "Tunnel",
+    "name": "Tunnel",
+    "x": 0.5844,
+    "y": 0.205,
+    "level": "default"
+   },
+   {
+    "key": "TunnelStairs",
+    "name": "Tunnel Stairs",
+    "x": 0.6101,
+    "y": 0.2681,
+    "level": "default"
+   },
+   {
+    "key": "Walkway",
+    "name": "Walkway",
+    "x": 0.6884,
+    "y": 0.3555,
+    "level": "default"
+   },
+   {
+    "key": "Water",
+    "name": "Water",
+    "x": 0.4916,
+    "y": 0.0599,
+    "level": "default"
+   }
+  ]
+ },
+ {
+  "id": "de_vertigo",
+  "name": "Vertigo",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Upper"
+   },
+   {
+    "id": "lower",
+    "name": "Lower"
+   }
+  ],
+  "posX": -3168.0,
+  "posY": 1762.0,
+  "scale": 4.0,
+  "lowerAltitudeMax": 11700.0,
+  "tSpawn": [
+   0.2,
+   0.75
+  ],
+  "ctSpawn": [
+   0.54,
+   0.25
+  ],
+  "bombA": [
+   0.705,
+   0.585
+  ],
+  "bombB": [
+   0.222,
+   0.223
+  ],
+  "callouts": [
+   {
+    "key": "APlatform",
+    "name": "A Platform",
+    "x": 0.6171,
+    "y": 0.7872,
+    "level": "default"
+   },
+   {
+    "key": "ARamp",
+    "name": "A Ramp",
+    "x": 0.6582,
+    "y": 0.7388,
+    "level": "default"
+   },
+   {
+    "key": "ARamp",
+    "name": "A Ramp",
+    "x": 0.5869,
+    "y": 0.6587,
+    "level": "lower"
+   },
+   {
+    "key": "BPlatform",
+    "name": "B Platform",
+    "x": 0.4124,
+    "y": 0.2964,
+    "level": "default"
+   },
+   {
+    "key": "BackDoor",
+    "name": "Back Door",
+    "x": 0.6055,
+    "y": 0.3606,
+    "level": "default"
+   },
+   {
+    "key": "BackofA",
+    "name": "Back of A",
+    "x": 0.7007,
+    "y": 0.3921,
+    "level": "default"
+   },
+   {
+    "key": "BackofB",
+    "name": "Back of B",
+    "x": 0.4093,
+    "y": 0.2241,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.7035,
+    "y": 0.5932,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.2379,
+    "y": 0.2604,
+    "level": "default"
+   },
+   {
+    "key": "Bridge",
+    "name": "Bridge",
+    "x": 0.5502,
+    "y": 0.4778,
+    "level": "lower"
+   },
+   {
+    "key": "CTSpawn",
+    "name": "CT Start",
+    "x": 0.5314,
+    "y": 0.2511,
+    "level": "default"
+   },
+   {
+    "key": "Connector",
+    "name": "Connector",
+    "x": 0.3584,
+    "y": 0.5239,
+    "level": "lower"
+   },
+   {
+    "key": "Crane",
+    "name": "Crane",
+    "x": 0.6602,
+    "y": 0.6926,
+    "level": "default"
+   },
+   {
+    "key": "Elevator",
+    "name": "Elevator",
+    "x": 0.5729,
+    "y": 0.4845,
+    "level": "default"
+   },
+   {
+    "key": "LadderBottom",
+    "name": "Ladder Bottom",
+    "x": 0.4491,
+    "y": 0.5952,
+    "level": "lower"
+   },
+   {
+    "key": "LadderTop",
+    "name": "Ladder Top",
+    "x": 0.4308,
+    "y": 0.601,
+    "level": "default"
+   },
+   {
+    "key": "Mid",
+    "name": "Mid",
+    "x": 0.3418,
+    "y": 0.4014,
+    "level": "default"
+   },
+   {
+    "key": "Pit",
+    "name": "Pit",
+    "x": 0.2004,
+    "y": 0.451,
+    "level": "default"
+   },
+   {
+    "key": "Scaffolding",
+    "name": "Scaffolding",
+    "x": 0.5312,
+    "y": 0.5864,
+    "level": "lower"
+   },
+   {
+    "key": "Side",
+    "name": "Side",
+    "x": 0.5371,
+    "y": 0.5806,
+    "level": "default"
+   },
+   {
+    "key": "TCorridorUp",
+    "name": "T Corridor Up",
+    "x": 0.3332,
+    "y": 0.5444,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.334,
+    "y": 0.6782,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.2977,
+    "y": 0.7081,
+    "level": "lower"
+   },
+   {
+    "key": "TopofMid",
+    "name": "Top of Mid",
+    "x": 0.5083,
+    "y": 0.379,
+    "level": "default"
+   },
+   {
+    "key": "Tunnels",
+    "name": "Tunnels",
+    "x": 0.3047,
+    "y": 0.4731,
+    "level": "lower"
+   }
+  ]
+ },
+ {
+  "id": "de_overpass",
+  "name": "Overpass",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Main"
+   }
+  ],
+  "posX": -4831.0,
+  "posY": 1781.0,
+  "scale": 5.2,
+  "lowerAltitudeMax": null,
+  "tSpawn": [
+   0.66,
+   0.93
+  ],
+  "ctSpawn": [
+   0.49,
+   0.2
+  ],
+  "bombA": [
+   0.55,
+   0.23
+  ],
+  "bombB": [
+   0.7,
+   0.31
+  ],
+  "callouts": [
+   {
+    "key": "Alley",
+    "name": "Alley",
+    "x": 0.7873,
+    "y": 0.6604,
+    "level": "default"
+   },
+   {
+    "key": "BackofA",
+    "name": "Back of A",
+    "x": 0.5364,
+    "y": 0.1237,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.4623,
+    "y": 0.2068,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.7275,
+    "y": 0.3164,
+    "level": "default"
+   },
+   {
+    "key": "Bridge",
+    "name": "Bridge",
+    "x": 0.6751,
+    "y": 0.3779,
+    "level": "default"
+   },
+   {
+    "key": "Canal",
+    "name": "Canal",
+    "x": 0.8385,
+    "y": 0.444,
+    "level": "default"
+   },
+   {
+    "key": "Connector",
+    "name": "Connector",
+    "x": 0.5399,
+    "y": 0.5358,
+    "level": "default"
+   },
+   {
+    "key": "Construction",
+    "name": "Construction",
+    "x": 0.7074,
+    "y": 0.4235,
+    "level": "default"
+   },
+   {
+    "key": "Fountain",
+    "name": "Fountain",
+    "x": 0.4257,
+    "y": 0.7311,
+    "level": "default"
+   },
+   {
+    "key": "Lobby",
+    "name": "Lobby",
+    "x": 0.4378,
+    "y": 0.1022,
+    "level": "default"
+   },
+   {
+    "key": "LowerPark",
+    "name": "Lower Park",
+    "x": 0.4498,
+    "y": 0.4551,
+    "level": "default"
+   },
+   {
+    "key": "Pipe",
+    "name": "Pipe",
+    "x": 0.7343,
+    "y": 0.5129,
+    "level": "default"
+   },
+   {
+    "key": "Playground",
+    "name": "Playground",
+    "x": 0.4115,
+    "y": 0.831,
+    "level": "default"
+   },
+   {
+    "key": "Restroom",
+    "name": "Restroom",
+    "x": 0.3506,
+    "y": 0.4347,
+    "level": "default"
+   },
+   {
+    "key": "SideAlley",
+    "name": "Side Alley",
+    "x": 0.8691,
+    "y": 0.7095,
+    "level": "default"
+   },
+   {
+    "key": "SnipersNest",
+    "name": "Sniper's Nest",
+    "x": 0.5495,
+    "y": 0.2128,
+    "level": "default"
+   },
+   {
+    "key": "Stairs",
+    "name": "Stairs",
+    "x": 0.5716,
+    "y": 0.1392,
+    "level": "default"
+   },
+   {
+    "key": "StorageRoom",
+    "name": "Storage Room",
+    "x": 0.4408,
+    "y": 0.0812,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.7044,
+    "y": 0.8903,
+    "level": "default"
+   },
+   {
+    "key": "TStairs",
+    "name": "T Stairs",
+    "x": 0.7438,
+    "y": 0.7521,
+    "level": "default"
+   },
+   {
+    "key": "Tunnels",
+    "name": "Tunnels",
+    "x": 0.6255,
+    "y": 0.6763,
+    "level": "default"
+   },
+   {
+    "key": "UnderA",
+    "name": "Under A",
+    "x": 0.5357,
+    "y": 0.2413,
+    "level": "default"
+   },
+   {
+    "key": "UpperPark",
+    "name": "Upper Park",
+    "x": 0.2609,
+    "y": 0.5061,
+    "level": "default"
+   },
+   {
+    "key": "Walkway",
+    "name": "Walkway",
+    "x": 0.5775,
+    "y": 0.3694,
+    "level": "default"
+   },
+   {
+    "key": "Water",
+    "name": "Water",
+    "x": 0.6409,
+    "y": 0.2947,
+    "level": "default"
+   }
+  ]
+ },
+ {
+  "id": "de_train",
+  "name": "Train",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Upper"
+   },
+   {
+    "id": "lower",
+    "name": "Lower"
+   }
+  ],
+  "posX": -2308.0,
+  "posY": 2078.0,
+  "scale": 4.082077,
+  "lowerAltitudeMax": -50.0,
+  "tSpawn": [
+   0.12,
+   0.25
+  ],
+  "ctSpawn": [
+   0.86,
+   0.77
+  ],
+  "bombA": [
+   0.63,
+   0.49
+  ],
+  "bombB": [
+   0.52,
+   0.76
+  ],
+  "callouts": [
+   {
+    "key": "Alley",
+    "name": "Alley",
+    "x": 0.5866,
+    "y": 0.1373,
+    "level": "lower"
+   },
+   {
+    "key": "BackofB",
+    "name": "Back of B",
+    "x": 0.3474,
+    "y": 0.7708,
+    "level": "lower"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.5841,
+    "y": 0.4462,
+    "level": "lower"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.6206,
+    "y": 0.8091,
+    "level": "lower"
+   },
+   {
+    "key": "CTSpawn",
+    "name": "CT Start",
+    "x": 0.9195,
+    "y": 0.7857,
+    "level": "lower"
+   },
+   {
+    "key": "Connector",
+    "name": "Connector",
+    "x": 0.6437,
+    "y": 0.6331,
+    "level": "lower"
+   },
+   {
+    "key": "Dumpster",
+    "name": "Dumpster",
+    "x": 0.4446,
+    "y": 0.1531,
+    "level": "lower"
+   },
+   {
+    "key": "ElectricalBox",
+    "name": "Electrical Box",
+    "x": 0.5104,
+    "y": 0.4911,
+    "level": "lower"
+   },
+   {
+    "key": "Entrance",
+    "name": "Entrance",
+    "x": 0.9005,
+    "y": 0.9086,
+    "level": "lower"
+   },
+   {
+    "key": "Ivy",
+    "name": "Ivy",
+    "x": 0.7923,
+    "y": 0.21,
+    "level": "lower"
+   },
+   {
+    "key": "LongDog",
+    "name": "Longdog",
+    "x": 0.2523,
+    "y": 0.6045,
+    "level": "default"
+   },
+   {
+    "key": "LongDog",
+    "name": "Longdog",
+    "x": 0.3857,
+    "y": 0.5773,
+    "level": "lower"
+   },
+   {
+    "key": "TMain",
+    "name": "T Main",
+    "x": 0.3766,
+    "y": 0.3306,
+    "level": "lower"
+   },
+   {
+    "key": "TSideUpper",
+    "name": "T Side Upper",
+    "x": 0.3627,
+    "y": 0.4407,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.1929,
+    "y": 0.183,
+    "level": "lower"
+   },
+   {
+    "key": "TStairs",
+    "name": "T Stairs",
+    "x": 0.3282,
+    "y": 0.2493,
+    "level": "lower"
+   },
+   {
+    "key": "Tunnels",
+    "name": "Tunnels",
+    "x": 0.8526,
+    "y": 0.4828,
+    "level": "lower"
+   }
+  ]
+ },
+ {
+  "id": "de_cache",
+  "name": "Cache",
+  "levels": [
+   {
+    "id": "default",
+    "name": "Main"
+   }
+  ],
+  "posX": -2000.0,
+  "posY": 3250.0,
+  "scale": 5.5,
+  "lowerAltitudeMax": null,
+  "tSpawn": [
+   0.887,
+   0.585
+  ],
+  "ctSpawn": [
+   0.09775,
+   0.473
+  ],
+  "bombA": [
+   0.325,
+   0.26
+  ],
+  "bombB": [
+   0.345,
+   0.79
+  ],
+  "callouts": [
+   {
+    "key": "ABoost",
+    "name": "A Boost",
+    "x": 0.4219,
+    "y": 0.2305,
+    "level": "default"
+   },
+   {
+    "key": "AHalls",
+    "name": "A Halls",
+    "x": 0.5618,
+    "y": 0.2136,
+    "level": "default"
+   },
+   {
+    "key": "AMain",
+    "name": "A Main",
+    "x": 0.4774,
+    "y": 0.3226,
+    "level": "default"
+   },
+   {
+    "key": "AStairs",
+    "name": "A Stairs",
+    "x": 0.4941,
+    "y": 0.4525,
+    "level": "default"
+   },
+   {
+    "key": "BHalls",
+    "name": "B Halls",
+    "x": 0.5392,
+    "y": 0.7235,
+    "level": "default"
+   },
+   {
+    "key": "BMain",
+    "name": "B Main",
+    "x": 0.4283,
+    "y": 0.7235,
+    "level": "default"
+   },
+   {
+    "key": "BackHall",
+    "name": "Back Hall",
+    "x": 0.2851,
+    "y": 0.6295,
+    "level": "default"
+   },
+   {
+    "key": "Bear",
+    "name": "Bear",
+    "x": 0.2517,
+    "y": 0.6253,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteA",
+    "name": "Bombsite A",
+    "x": 0.3449,
+    "y": 0.2736,
+    "level": "default"
+   },
+   {
+    "key": "BombsiteB",
+    "name": "Bombsite B",
+    "x": 0.3369,
+    "y": 0.7533,
+    "level": "default"
+   },
+   {
+    "key": "Boost",
+    "name": "Boost",
+    "x": 0.4931,
+    "y": 0.4612,
+    "level": "default"
+   },
+   {
+    "key": "BusStop",
+    "name": "Bus Stop",
+    "x": 0.0926,
+    "y": 0.5763,
+    "level": "default"
+   },
+   {
+    "key": "CTLane",
+    "name": "CT Lane",
+    "x": 0.1933,
+    "y": 0.5504,
+    "level": "default"
+   },
+   {
+    "key": "CTSpawn",
+    "name": "CT Start",
+    "x": 0.0905,
+    "y": 0.4331,
+    "level": "default"
+   },
+   {
+    "key": "Catwalk",
+    "name": "Catwalk",
+    "x": 0.3752,
+    "y": 0.3486,
+    "level": "default"
+   },
+   {
+    "key": "Checkers",
+    "name": "Checkers",
+    "x": 0.366,
+    "y": 0.6326,
+    "level": "default"
+   },
+   {
+    "key": "Connector",
+    "name": "Connector",
+    "x": 0.2594,
+    "y": 0.5496,
+    "level": "default"
+   },
+   {
+    "key": "Corner",
+    "name": "Corner",
+    "x": 0.3547,
+    "y": 0.1839,
+    "level": "default"
+   },
+   {
+    "key": "Cubby",
+    "name": "Cubby",
+    "x": 0.4509,
+    "y": 0.4612,
+    "level": "default"
+   },
+   {
+    "key": "ElectricalBox",
+    "name": "Electrical Box",
+    "x": 0.2765,
+    "y": 0.3822,
+    "level": "default"
+   },
+   {
+    "key": "ForkLift",
+    "name": "Forklift",
+    "x": 0.3998,
+    "y": 0.3333,
+    "level": "default"
+   },
+   {
+    "key": "Garage",
+    "name": "Garage",
+    "x": 0.583,
+    "y": 0.5495,
+    "level": "default"
+   },
+   {
+    "key": "Headshot",
+    "name": "Headshot",
+    "x": 0.2859,
+    "y": 0.805,
+    "level": "default"
+   },
+   {
+    "key": "Heaven",
+    "name": "Heaven",
+    "x": 0.26,
+    "y": 0.6833,
+    "level": "default"
+   },
+   {
+    "key": "Highway",
+    "name": "Highway",
+    "x": 0.3208,
+    "y": 0.4443,
+    "level": "default"
+   },
+   {
+    "key": "Ladder",
+    "name": "Ladder",
+    "x": 0.3382,
+    "y": 0.3917,
+    "level": "default"
+   },
+   {
+    "key": "Lockers",
+    "name": "Lockers",
+    "x": 0.5184,
+    "y": 0.3107,
+    "level": "default"
+   },
+   {
+    "key": "LongA",
+    "name": "Long A",
+    "x": 0.5667,
+    "y": 0.3441,
+    "level": "default"
+   },
+   {
+    "key": "Mid",
+    "name": "Mid",
+    "x": 0.3994,
+    "y": 0.5378,
+    "level": "default"
+   },
+   {
+    "key": "MidRoof",
+    "name": "Mid Roof",
+    "x": 0.4105,
+    "y": 0.5879,
+    "level": "default"
+   },
+   {
+    "key": "Middle",
+    "name": "Middle",
+    "x": 0.45,
+    "y": 0.4612,
+    "level": "default"
+   },
+   {
+    "key": "OutsideA",
+    "name": "Outside A",
+    "x": 0.5948,
+    "y": 0.4456,
+    "level": "default"
+   },
+   {
+    "key": "OutsideB",
+    "name": "Outside B",
+    "x": 0.7117,
+    "y": 0.7294,
+    "level": "default"
+   },
+   {
+    "key": "Playground",
+    "name": "Playground",
+    "x": 0.4051,
+    "y": 0.8236,
+    "level": "default"
+   },
+   {
+    "key": "Quad",
+    "name": "Quad",
+    "x": 0.305,
+    "y": 0.1839,
+    "level": "default"
+   },
+   {
+    "key": "Rafters",
+    "name": "Rafters",
+    "x": 0.3001,
+    "y": 0.6904,
+    "level": "default"
+   },
+   {
+    "key": "Red",
+    "name": "Red",
+    "x": 0.5623,
+    "y": 0.523,
+    "level": "default"
+   },
+   {
+    "key": "Sandbags",
+    "name": "Sandbags",
+    "x": 0.3569,
+    "y": 0.5879,
+    "level": "default"
+   },
+   {
+    "key": "Squeaky",
+    "name": "Squeaky",
+    "x": 0.3937,
+    "y": 0.198,
+    "level": "default"
+   },
+   {
+    "key": "SunRoom",
+    "name": "Sun Room",
+    "x": 0.4922,
+    "y": 0.8236,
+    "level": "default"
+   },
+   {
+    "key": "TSpawn",
+    "name": "T Start",
+    "x": 0.8538,
+    "y": 0.5839,
+    "level": "default"
+   },
+   {
+    "key": "TTruck",
+    "name": "T Truck",
+    "x": 0.7142,
+    "y": 0.4431,
+    "level": "default"
+   },
+   {
+    "key": "TYard",
+    "name": "T Yard",
+    "x": 0.7142,
+    "y": 0.5422,
+    "level": "default"
+   },
+   {
+    "key": "Toxic",
+    "name": "Toxic",
+    "x": 0.3388,
+    "y": 0.3572,
+    "level": "default"
+   },
+   {
+    "key": "TreeRoom",
+    "name": "Tree Room",
+    "x": 0.1917,
+    "y": 0.7111,
+    "level": "default"
+   },
+   {
+    "key": "Truck",
+    "name": "Truck",
+    "x": 0.21,
+    "y": 0.3837,
+    "level": "default"
+   },
+   {
+    "key": "Useless",
+    "name": "Useless",
+    "x": 0.5811,
+    "y": 0.6321,
+    "level": "default"
+   },
+   {
+    "key": "Vents",
+    "name": "Vents",
+    "x": 0.4404,
+    "y": 0.6201,
+    "level": "default"
+   }
+  ]
+ }
+]

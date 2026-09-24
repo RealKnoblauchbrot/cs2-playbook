@@ -1,0 +1,71 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "CS2 Playbook",
+  "version": "0.1.0",
+  "identifier": "com.realknoblauchbrot.cs2playbook",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://localhost:1420",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "CS2 Playbook",
+        "width": 1480,
+        "height": 920,
+        "minWidth": 1100,
+        "minHeight": 700,
+        "center": true,
+        "dragDropEnabled": false
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["nsis"],
+    "createUpdaterArtifacts": true,
+    "publisher": "RealKnoblauchbrot",
+    "category": "Utility",
+    "shortDescription": "CS2 team tactics planner",
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "fileAssociations": [
+      {
+        "ext": ["cs2pb"],
+        "name": "CS2 Playbook share file",
+        "description": "CS2 Playbook share file",
+        "mimeType": "application/x-cs2pb",
+        "role": "Editor"
+      }
+    ],
+    "windows": {
+      "nsis": {
+        "installMode": "currentUser",
+        "languages": ["English", "German"],
+        "displayLanguageSelector": false
+      }
+    }
+  },
+  "plugins": {
+    "updater": {
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEVENDY2MkQzMTFFNTA4QUEKUldTcUNPVVIwMkpHN2EzRXZ4UjZrbnplSW41WGVpYnJWWE5OY3VYbzYvSTZta1kzdWV5Z3NqaGoK",
+      "endpoints": [
+        "https://github.com/RealKnoblauchbrot/cs2-playbook/releases/latest/download/latest.json"
+      ],
+      "windows": {
+        "installMode": "passive"
+      }
+    }
+  }
+}
