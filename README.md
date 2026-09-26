@@ -24,8 +24,8 @@ Works fully **offline** – no server, no account. Teams share their playbook by
 
 ## Install
 
-1. Download `CS2.Playbook_x.y.z_x64-setup.exe` from the [latest release](https://github.com/RealKnoblauchbrot/cs2-playbook/releases/latest).
-2. Run it. Windows SmartScreen may warn because the installer isn't code-signed: **More info → Run anyway**.
+1. Download **[CS2-Playbook-Setup.exe](https://github.com/RealKnoblauchbrot/cs2-playbook/releases/latest/download/CS2-Playbook-Setup.exe)** – this link always points to the newest version, so it can be pinned in Discord.
+2. Run it (no admin rights needed). Windows SmartScreen may warn because the installer isn't code-signed: **More info → Run anyway**.
 3. On start the app checks for a newer release and asks before updating.
 
 Your data lives in `%APPDATA%\com.realknoblauchbrot.cs2playbook` (playbook, media, backups) and is never touched by updates.

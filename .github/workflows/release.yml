@@ -52,3 +52,13 @@ jobs:
           releaseDraft: false
           prerelease: false
           uploadUpdaterJson: true
+
+      # Same installer under a fixed name, so this link never changes and can be
+      # pinned in Discord: releases/latest/download/CS2-Playbook-Setup.exe
+      - name: Upload installer under a permanent name
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cp "src-tauri/target/release/bundle/nsis/CS2 Playbook_${GITHUB_REF_NAME#v}_x64-setup.exe" CS2-Playbook-Setup.exe
+          gh release upload "$GITHUB_REF_NAME" CS2-Playbook-Setup.exe --clobber
